@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IDCard Watermark</string>
+    <string name="camera_btn">拍照</string>
+    <string name="album_btn">相册</string>
+    <string name="edit_hint">输入水印文字</string>
+    <string name="add_text_watermark">添加文字水印</string>
+    <string name="clear_watermark">去除水印</string>
+    <string name="save_image">保存</string>
+    <string name="watermark_transparency">透明度</string>
+    <string name="watermark_color">水印颜色</string>
+</resources>
